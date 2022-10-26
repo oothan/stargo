@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90560e49-92f6-4624-9113-d4faea0c1fe4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/golang_test_files/12_go_select/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/golang_test_files/13_godate/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/golang_test_files/14_big_float_or_big_int/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golang_test_files/15_json/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golang_test_files/16_ticker/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golang_test_files/16_ticker/main.go.bk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang_test_files/14_big_float_or_big_int/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/golang_test_files/14_big_float_or_big_int/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +56,15 @@
   }
 }</component>
   <component name="RunManager">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="go-star" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="go-star" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build go-learn/golang_test_files/13_godate" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go-star" />
       <working_directory value="$PROJECT_DIR$" />
@@ -62,6 +72,16 @@
       <package value="go-learn/golang_test_files/13_godate" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/golang_test_files/13_godate/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="go-star" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="DIRECTORY" />
+      <package value="go-star" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -84,7 +104,13 @@
       <workItem from="1665919400994" duration="1860000" />
       <workItem from="1666062240067" duration="631000" />
       <workItem from="1666076650131" duration="756000" />
-      <workItem from="1666319544015" duration="873000" />
+      <workItem from="1666319544015" duration="976000" />
+      <workItem from="1666528741726" duration="440000" />
+      <workItem from="1666576522337" duration="8484000" />
+      <workItem from="1666672847873" duration="4194000" />
+      <workItem from="1666702138405" duration="4631000" />
+      <workItem from="1666786478694" duration="2813000" />
+      <workItem from="1666803518370" duration="1285000" />
     </task>
     <servers />
   </component>
