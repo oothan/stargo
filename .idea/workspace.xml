@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90560e49-92f6-4624-9113-d4faea0c1fe4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/golang_test_files/15_json/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/golang_test_files/16_ticker/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/golang_test_files/16_ticker/main.go.bk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golang_test_files/16_ticker/threee/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/golang_test_files/14_big_float_or_big_int/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/golang_test_files/14_big_float_or_big_int/main.go" afterDir="false" />
     </list>
@@ -110,7 +108,11 @@
       <workItem from="1666672847873" duration="4194000" />
       <workItem from="1666702138405" duration="4631000" />
       <workItem from="1666786478694" duration="2813000" />
-      <workItem from="1666803518370" duration="1285000" />
+      <workItem from="1666803518370" duration="7679000" />
+      <workItem from="1666846775644" duration="27000" />
+      <workItem from="1666848132687" duration="1558000" />
+      <workItem from="1666934299341" duration="1120000" />
+      <workItem from="1666938954778" duration="1347000" />
     </task>
     <servers />
   </component>
