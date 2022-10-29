@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	athletes "go-learn/011_struct/08_struct_exported/types"
+	"go-learn/star001/011_struct/08_struct_exported/types"
 	"strings"
 )
 
