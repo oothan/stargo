@@ -20,4 +20,16 @@ func main() {
 	fmt.Println(rand.Uint32())
 
 	fmt.Println(strconv.FormatInt(time.Now().UnixNano()+int64(rand.Uint32()), 10))
+	dt := time.Now()
+	sd := dt.Day()
+	sy := dt.Year()
+	sm := int64(dt.Month())
+	fmt.Println(fmt.Sprintf("%v %v %v", sd, sm, sy))
+
+	firstDate := time.Date(2022, 4, 13, 0, 0, 0, 0, time.UTC)
+	secondDate := time.Date(2022, 4, 15, 0, 0, 0, 0, time.UTC)
+	difference := firstDate.Sub(secondDate)
+
+	fmt.Println(int64(difference.Hours() / 24))
+
 }
