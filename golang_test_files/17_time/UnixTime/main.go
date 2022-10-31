@@ -26,8 +26,8 @@ func main() {
 	sm := int64(dt.Month())
 	fmt.Println(fmt.Sprintf("%v %v %v", sd, sm, sy))
 
-	firstDate := time.Date(2022, 4, 13, 0, 0, 0, 0, time.UTC)
-	secondDate := time.Date(2022, 4, 15, 0, 0, 0, 0, time.UTC)
+	firstDate := time.Date(2022, 4, 29, 0, 0, 0, 0, time.UTC)
+	secondDate := time.Date(2022, 4, 30, 0, 0, 0, 0, time.UTC)
 	difference := firstDate.Sub(secondDate)
 
 	fmt.Println(int64(difference.Hours() / 24))
