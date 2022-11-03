@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb228751-ee84-40d1-af4d-1ec0631274c3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/golang_test_files/17_time/check_hostname/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/golang_test_files/17_time/time_different/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golang_test_files/17_time/check_string/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/golang_test_files/17_time/UnixTime/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/golang_test_files/17_time/UnixTime/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +51,27 @@
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="stargo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="stargo" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="stargo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="DIRECTORY" />
+      <package value="stargo" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -65,6 +84,9 @@
       <workItem from="1667105884231" duration="3682000" />
       <workItem from="1667119422533" duration="5629000" />
       <workItem from="1667205645470" duration="9581000" />
+      <workItem from="1667229588530" duration="1091000" />
+      <workItem from="1667382991747" duration="3883000" />
+      <workItem from="1667439995311" duration="736000" />
     </task>
     <servers />
   </component>
